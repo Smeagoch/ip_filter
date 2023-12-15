@@ -2,6 +2,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <cstring>
+#include <string>
 #include <vector>
 #include <algorithm>
 #include <initializer_list>
