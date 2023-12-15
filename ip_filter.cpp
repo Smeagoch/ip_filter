@@ -6,6 +6,7 @@
 #include <algorithm>
 #include <initializer_list>
 #include <utility>
+#include <stdint.h>
 
 void show_ip_pool(std::vector<std::vector<std::string>>& ip_pool)
 {
